@@ -1,1 +1,1 @@
-this project aims to get me a job.
+TODO: Add a proper description to the project.
